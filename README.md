@@ -21,3 +21,7 @@ This makes easy to connect with your friends. Easy to handle.
 NodeJS: Visit the official Node.js website to download and install Node.
 
 NPM: NPM program gets installed on your computer when you install Node.js. 
+
+# Screenshots 
+
+![Screenshot_2022-07-29-23-46-32-16](https://user-images.githubusercontent.com/92304590/181820353-c08bc9af-40a4-4138-ba27-007c0b914b22.png) 
